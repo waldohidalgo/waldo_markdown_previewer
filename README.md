@@ -10,7 +10,7 @@ El presente repositorio contiene el código solución del proyecto número dos, 
   - [Screenshots adicionales](#screenshots-adicionales)
     - [Proyecto en pantallas grandes con dos columnas](#proyecto-en-pantallas-grandes-con-dos-columnas)
     - [Proyecto en pantallas grandes con una columna](#proyecto-en-pantallas-grandes-con-una-columna)
-    - [Proyeccto en pantallas small](#proyeccto-en-pantallas-small)
+    - [Proyecto en pantallas small](#proyecto-en-pantallas-small)
 - [Código Markdown utilizado como placeholder](#código-markdown-utilizado-como-placeholder)
   - [Waldo's React Markdown Previewer!](#waldos-react-markdown-previewer)
   - [This is a H1 heading](#this-is-a-h1-heading)
@@ -64,7 +64,7 @@ A continuación muestro la imagen del proyecto en el cual apruebo **TODOS** los 
 
 ![Proyecto en pantallas grandes con una columna](./screenshots/pantallas_grandes_una_columna.webp)
 
-### Proyeccto en pantallas small
+### Proyecto en pantallas small
 
 ![Proyeccto en pantallas small](./screenshots/pantallas_small.webp)
 
