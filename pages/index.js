@@ -10,11 +10,14 @@ import { markedHighlight } from "marked-highlight";
 import hljs from "highlight.js";
 import DOMPurify from "dompurify";
 import "highlight.js/styles/xt256.min.css";
-import cadenaInicial from "./string.js";
+import cadenaInicial from "./api/string.js";
 import BtnChangeDisplay from "../components/btn_change_display/index.js";
 import {markedEmoji} from "marked-emoji";
 import Typewriter from "typewriter-effect";
 import Footer from "../components/Footer/index.js";
+
+
+
 const marked = new Marked(
   markedHighlight({
     langPrefix: "hljs language-",
