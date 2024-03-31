@@ -1,0 +1,44 @@
+.titulo {
+  padding-block: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-bottom: 0;
+  margin: 0;
+  font-family: "Crimson Pro", serif;
+  font-size: 1.75rem;
+  background-color: black;
+  color: white;
+}
+
+.textarea {
+  resize: vertical;
+  width: 100%;
+  height: 70vh;
+  min-height: 300px;
+  border-color: black;
+  padding: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.25rem;
+  box-shadow: 6px 6px 0px 0px #1f0707;
+  -webkit-box-shadow: 6px 6px 0px 0px #1f0707;
+  -moz-box-shadow: 6px 6px 0px 0px #1f0707;
+}
+
+.textarea:focus {
+  outline-color: grey;
+}
+
+.preview {
+  background-color: #eee;
+  overflow: auto;
+  border: 1px solid black;
+}
+.preview img {
+  display: block;
+  margin: auto;
+  width: 80%;
+}
+
+.preview pre {
+  width: 100%;
+}
