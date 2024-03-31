@@ -9,7 +9,9 @@
   grid-template-rows: 1fr 1fr;
   max-width: 600px;
   margin: auto;
-  @media screen and (min-width: 768px) {
+}
+@media screen and (min-width: 768px) {
+  .container_editores {
     justify-content: center;
     max-width: 100%;
     grid-template-columns: 49% 49%;
