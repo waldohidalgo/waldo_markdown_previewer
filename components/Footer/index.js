@@ -5,15 +5,17 @@ export default function Footer(props) {
   return (
     <footer className={styles.footer}>
       <div className={styles.footer_contenido}>
-        <Typewriter
-          options={{
-            strings: "Developed by:",
-            autoStart: true,
-            delay: 50,
-            loop: true,
-            deleteSpeed: 50,
-          }}
-        />
+        <div style={{ overflow: "hidden" }} translate="no">
+          <Typewriter
+            options={{
+              strings: "Developed by:",
+              autoStart: true,
+              delay: 50,
+              loop: true,
+              deleteSpeed: 50,
+            }}
+          />
+        </div>
 
         <div className={styles.logo}>
           <a
